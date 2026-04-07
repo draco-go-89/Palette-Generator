@@ -65,5 +65,7 @@ Live demo available by simply opening `main.html`!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Visit the website
+https://draco-go-89.github.io/Palette-Generator/
 ⭐ **Made with ❤️ using vanilla web technologies**
 
