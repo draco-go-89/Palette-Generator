@@ -1,6 +1,7 @@
 # Palette Generator
 
-[![Palette Generator Preview](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Palette+Generator+Preview)](https://via.placeholder.com/)
+<img width="512" height="320" alt="image" src="https://github.com/user-attachments/assets/d4e6e5e6-6b2a-436b-98a9-e39df1972f49" />
+
 
 ## 🎨 Overview
 
@@ -20,20 +21,20 @@ Perfect for designers, developers, and anyone needing quick color inspiration.
 
 ## 🚀 Quick Start
 
-1. **Open** `main.html` in any modern web browser
+1. **Open** `index.html` in any modern web browser
 2. **Click** "Generate New Palette" to create your first palette
 3. **Click** any color to copy its hex code
 4. **Done!** Use the colors in your projects
 
 ```bash
-# Just double-click main.html or drag to browser
-open main.html  # macOS
-start main.html  # Windows
+# Just double-click index.html or drag to browser
+open index.html  # macOS
+start index.html  # Windows
 ```
 
 ## 📱 Demo
 
-Live demo available by simply opening `main.html`!
+Live demo available by simply opening `index.html`!
 
 ## 🛠️ Tech Stack
 
@@ -66,6 +67,10 @@ Live demo available by simply opening `main.html`!
 5. Open a Pull Request
 
 ## Visit the website
+
 https://draco-go-89.github.io/Palette-Generator/
+
+
+
 ⭐ **Made with ❤️ using vanilla web technologies**
 
